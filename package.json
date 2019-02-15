@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Cl3arglass/npm-lab-v-000#readme",
   "dependencies": {
-    "learn-browser": "^0.1.23"
+    "learn-browser": "^0.1.23",
+    "moment": "^2.24.0"
   }
 }
